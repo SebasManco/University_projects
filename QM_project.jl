@@ -47,3 +47,4 @@ function schrodinger(gridSize::Int64, eig_evc)
 end
 
 heatmap(schrodinger(100,1),colorbar=false,axis=false,ticks=false)
+print("hola")
