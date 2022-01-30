@@ -4,6 +4,8 @@ using Plots; gr()
 using Arpack
 using BenchmarkTools
 
+#--------------------------------------------------------------------------------------------------
+
 function schrodinger(gridSize::Int64, eig_evc)
     N = gridSize
     x = 1:N
