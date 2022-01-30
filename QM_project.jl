@@ -48,3 +48,4 @@ end
 
 heatmap(schrodinger(100,1),colorbar=false,axis=false,ticks=false)
 print("hola")
+print("adios")
