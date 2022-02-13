@@ -3,6 +3,7 @@ using SparseArrays
 using Plots; gr()
 using Arpack
 using BenchmarkTools
+using Kronecker
 
 #--------------------------------------------------------------------------------------------------
 
